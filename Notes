@@ -1,3 +1,4 @@
+
 bochs 2.2.6:
 ./configure --enable-smp --enable-disasm --enable-debugger --enable-all-optimizations --enable-4meg-pages --enable-global-pages --enable-pae --disable-reset-on-triple-fault
 bochs CVS after 2.2.6:
