@@ -10,6 +10,7 @@ struct file {
 
 
 // in-memory copy of an inode
+
 struct inode {
   uint dev;           // Device number
   uint inum;          // Inode number
